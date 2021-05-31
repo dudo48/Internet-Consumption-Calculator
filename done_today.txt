@@ -1,0 +1,1 @@
+0 or 1 (true or false that it ran today)
